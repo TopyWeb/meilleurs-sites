@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ma Page Simple</title>
+    <title>Les meilleurs sites sur internet</title>
 </head>
 <body>
     <header>
-        <h1>Titre de ma page</h1>
+        <h1>Meilleurs sites sur internet avec TopyWeb</h1>
     </header>
     <main>
         <p>Ceci est un paragraphe de texte simple.</p>
         <p>Vous pouvez ajouter autant de contenu que vous le souhaitez ici.</p>
     </main>
     <footer>
-        <p><a href="https://www.example.com">Cliquez ici pour aller vers une autre page</a></p>
+        <p><a href="https://www.topyweb.com">Cliquez ici pour aller sur le site TopyWeb</a></p>
     </footer>
 </body>
 </html>
